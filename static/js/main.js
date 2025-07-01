@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", async () => {
-    const username = "gitcupcake";
+    const username = "nurosmanisik";
     const container = document.getElementById("github-projects");
 
     try {
